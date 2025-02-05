@@ -1,1 +1,2 @@
 print("depot")
+print("nouveau")
